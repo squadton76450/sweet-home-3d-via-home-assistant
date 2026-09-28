@@ -52,7 +52,8 @@ quel fichier statique dans Home Assistant.
        title: "Maison 3D"
        icon: mdi:home-city
        url: "/local/plan_maison_home_assistant.html"
-   ```
+ 
+   si cela ne fonctionne pas tapez dans url : `http://ip:8123/local/plan_maison_home_assistant.html`
 
 ### Mettre à jour le plan plus tard
 
